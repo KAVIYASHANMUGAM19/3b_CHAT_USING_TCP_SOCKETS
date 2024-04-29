@@ -59,8 +59,7 @@ CLIENT
 
 SERVER
 
-![Uploading Screenshot 2024-04-29 141711.png…]()
-
+![Screenshot 2024-04-29 141711](https://github.com/KAVIYASHANMUGAM19/3b_CHAT_USING_TCP_SOCKETS/assets/155141139/54b8dad1-9bd3-49ca-b6b5-1f3cc1192f07)
 
 
 ## RESULT
